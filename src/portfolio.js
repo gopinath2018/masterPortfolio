@@ -8,9 +8,9 @@ const settings = {
 
 //Home Page
 const greeting = {
-	title: "Ashutosh Hathidara",
-	logo_name: "AshutoshHathidara",
-	nickname: "layman_brother",
+	title: "Gopinath",
+	logo_name: "Gopinath",
+	nickname: "Engineerr",
 	subTitle:
 		"A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
 	resumeLink:
@@ -20,13 +20,13 @@ const greeting = {
 
 const socialMediaLinks = {
 	/* Your Social Media Link */
-	github: "https://github.com/ashutosh1919",
-	linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-	gmail: "ashutoshhathidara98@gmail.com",
-	gitlab: "https://gitlab.com/ashutoshhathidara98",
-	facebook: "https://www.facebook.com/laymanbrother.19/",
-	twitter: "https://twitter.com/ashutosh_1919",
-	instagram: "https://www.instagram.com/layman_brother/"
+	github: "https://github.com/gopinath2018",
+	linkedin: "https://www.linkedin.com/in/gopinath2018/",
+	gmail: "gopinathwon@gmail.com",
+	quora: "https://quora.com/gopinath2018",
+	facebook: "https://www.facebook.com/gopinath2018/",
+	twitter: "https://twitter.com/gopinath2018",
+	instagram: "https://www.instagram.com/gopinath.io/"
 };
 
 const skills = {
@@ -73,12 +73,12 @@ const skills = {
       ]
     },
     {
-      title: "Full Stack Development",
+      title: "Internet of Things",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask"
+        "⚡ Building resposive real time Applications",
+        "⚡ Bulilding iot",
+        "⚡ Creating application backend in Arudiono and raseprry pi"
       ],
       softwareSkills: [
         {
@@ -155,13 +155,13 @@ const skills = {
       ]
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Drawing",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
+        "⚡ Experience working on multipls",
+        "⚡ Hosting and maintaining websigration of databases",
+        "⚡ Deploying deep learning mode on mobile devices",
+        "⚡ Setting up streaming jobs from DB to Server oP and AWS"
       ],
       softwareSkills: [
         {
@@ -274,7 +274,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866"
       },
-      profileLink: "https://www.hackerrank.com/layman_brother"
+      profileLink: "https://www.hackerrank.com/gopinath2018"
     },
     {
       siteName: "Codechef",
@@ -282,7 +282,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638"
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919"
+      profileLink: "https://www.codechef.com/users/gopinath2018"
     },
     {
       siteName: "Codeforces",
@@ -290,7 +290,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB"
       },
-      profileLink: "http://codeforces.com/profile/layman_brother"
+      profileLink: "http://codeforces.com/profile/gopinath2018"
     },
     {
       siteName: "Hackerearth",
@@ -298,7 +298,7 @@ const competitiveSites = {
       style: {
         color: "#323754"
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391"
+      profileLink: "https://www.hackerearth.com/@gopinath2018"
     },
     {
       siteName: "Kaggle",
@@ -306,7 +306,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF"
       },
-      profileLink: "https://www.kaggle.com/laymanbrother"
+      profileLink: "https://www.kaggle.com/gopinath2018"
     }
   ]
 }
@@ -314,17 +314,17 @@ const competitiveSites = {
 const degrees = {
   degrees : [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Rajalakshmi Institute of Technology, Chennai",
+      subtitle: "B.E in Electronics and Communication Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      duration: "2016 - 2020",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ Apart from this, I have done courses on Machine Learning, Deep Learning, Data Science, Internet of Things and Computer Vision.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics."
       ],
-      website_link: "http://iiitk.ac.in"
+      website_link: "http://ritchennai.edu.in"
     }
   ]
 }
@@ -336,43 +336,43 @@ const certifications = {
 			subtitle: "- Andrew Ng",
 			logo_path: "stanford_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+				"https://coursera.org/share/c4c5f706940925baa6b2ad0a12660c81",
 			alt_name: "Stanford University",
 			color_code: "#8C151599"
 		},
 		{
-			title: "Deep Learning",
+			title: "Neural Networks and Deep Learning",
 			subtitle: "- Andrew Ng",
 			logo_path: "deeplearning_ai_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+				"hhttps://www.coursera.org/account/accomplishments/certificate/PEBF3Q53TD8B",
 			alt_name: "deeplearning.ai",
 			color_code: "#00000099"
 		},
 		{
-			title: "ML on GCP",
+			title: "Google Cloud Platform Big Data and Machine Learning Fundamentals",
 			subtitle: "- GCP Training",
 			logo_path: "google_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+				"https://www.coursera.org/account/accomplishments/certificate/ND6CRKHJBZ7Y",
 			alt_name: "Google",
 			color_code: "#0C9D5899"
 		},
 		{
-			title: "Data Science",
+			title: "Data Science Orientation",
 			subtitle: "- Alex Aklson",
 			logo_path: "ibm_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+				"https://www.youracclaim.com/badges/6fa34b63-2eed-44bc-895b-2b831572e8bf/",
 			alt_name: "IBM",
 			color_code: "#1F70C199"
 		},
 		{
-			title: "Big Data",
+			title: "Programming for Everybody (Getting Started with Python)",
 			subtitle: "- Kim Akers",
 			logo_path: "microsoft_logo.png",
 			certificate_link:
-				"https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+				"https://www.coursera.org/account/accomplishments/verify/WUNKLT79DPZM",
 			alt_name: "Microsoft",
 			color_code: "#D83B0199"
 		},
@@ -422,11 +422,20 @@ const certifications = {
 			color_code: "#4285F499"
 		},
 		{
-			title: "Cryptography",
+			title: "Discrete Time Signal Processing",
 			subtitle: "- Saurabh Mukhopadhyay",
 			logo_path: "nptel_logo.png",
 			certificate_link:
-				"https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+				"http://nptel.ac.in/noc/social_cert/noc18-ee30/NPTEL18EE30S111807731810079998.jpg",
+			alt_name: "NPTEL",
+			color_code: "#FFBB0099"
+		},
+		{
+			title: "Digital Circuits",
+			subtitle: "- Saurabh Mukhopadhyay",
+			logo_path: "nptel_logo.png",
+			certificate_link:
+				"http://nptel.ac.in/noc/social_cert/noc18-ee33/NPTEL18EE33S112113321810079998.jpg",
 			alt_name: "NPTEL",
 			color_code: "#FFBB0099"
 		},
@@ -521,25 +530,25 @@ const experience = {
 			title: "Volunteerships",
 			experiences: [
 				{
-					title: "Google Explore ML Facilitator",
-					company: "Google",
+					title: "Community Volunteer",
+					company: "TED Conferences",
 					company_url: "https://about.google/",
 					logo_path: "google_logo.png",
-					duration: "June 2019 - April 2020",
+					duration: "Jan 2019 - April 2019",
 					location: "Hyderabad, Telangana",
 					description:
-						"Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+						"Our event is called TEDxCovelong, where x = independently organized TED event. At our TEDxCovelong event, TEDTalks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.The theme of TEDxCovelong 2019 was Ride the Wave.",
 					color: "#4285F4",
 				},
 				{
-					title: "Microsoft Student Partner",
-					company: "Microsoft",
+					title: "Community Volunteer",
+					company: "EFY Group",
 					company_url: "https://www.microsoft.com/",
 					logo_path: "microsoft_logo.png",
-					duration: "Aug 2019 - May 2020",
-					location: "Hyderabad, Telangana",
+					duration: "Feb 2020 - March 2020",
+					location: "Bengaluru, Karnataka",
 					description:
-						"Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+						"Organized the INDIA ELECTRONICS WEEK 2020 held on 13th -16th February 2020 at Karnataka Trade Promotion Organization (KTPO), Bengaluru. Learnt lot of new things.",
 					color: "#D83B01",
 				},
 				{
@@ -554,6 +563,17 @@ const experience = {
 					color: "#000000",
 				},
 				{
+					title: "Student Volunteer",
+					company: "EFY Group",
+					company_url: "https://www.microsoft.com/",
+					logo_path: "microsoft_logo.png",
+					duration: "Feb 2019 - March 2019",
+					location: "Bengaluru, Karnataka",
+					description:
+						"Organized the INDIA ELECTRONICS WEEK 2019 held on 26th -28th February 2019 at Karnataka Trade Promotion Organization (KTPO), Bengaluru. Learnt lot of new things.",
+					color: "#D83B01",
+				}
+				{
 					title: "Developer Students Club Member",
 					company: "DSC IIITDM Kurnool",
 					company_url:
@@ -566,14 +586,25 @@ const experience = {
 					color: "#0C9D58",
 				},
 				{
-					title: "Developer Program Member",
-					company: "Github",
+					title: "Rotracter",
+					company: "Rotract Club of RIT",
 					company_url: "https://github.com/",
 					logo_path: "github_logo.png",
-					duration: "July 2019 - PRESENT",
+					duration: "Dec 2016 - PRESENT",
 					location: "Work From Home",
 					description:
-						"I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating peoper documentation for project.",
+						"Active Member of Rotract Club of RIT. Volunteered and Organized Several Events both On and Off - Campus",
+					color: "#181717",
+				},
+				{
+					title: "Cadet",
+					company: "National Cadet Crops",
+					company_url: "https://github.com/",
+					logo_path: "github_logo.png",
+					duration: "Dec 2016 - PRESENT",
+					location: "Work From Home",
+					description:
+						"National Cadet Crops NCC",
 					color: "#181717",
 				},
 			],
@@ -608,13 +639,13 @@ const contactPageData = {
 	addressSection: {
 		title: "Address",
 		subtitle:
-			"Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+			"Kuthambakkam Village, Tiruavllur District, Tamilnadu, Chennai - 600124",
 		avatar_image_path: "address_image.svg",
 		location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
 	},
 	phoneSection: {
 		title: "Phone Number",
-		subtitle: "+91 8320758513",
+		subtitle: "+91 8072823179",
 	},
 };
 
