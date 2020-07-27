@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "masterPortfolio",
-  "homepage": ".",
+  "name": "Gopinath Portfolio",
+  "homepage": "https://gopinath2018.github.io",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
