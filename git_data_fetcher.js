@@ -1,6 +1,6 @@
 const openSource = {
-	githubConvertedToken: "Your Github Token Here.",
-	githubUserName: "Your Github Username Here.",
+	githubConvertedToken: "542a35152db105dc8278e61e1e0dd05ab37ef60c",
+	githubUserName: "gopinath2018",
 };
 
 const fetch = require("node-fetch");
